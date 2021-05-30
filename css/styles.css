@@ -50,7 +50,7 @@ a {
   --svg-color: #afb1b8;
 }
 :root {
-  --transition-duration: 2500ms;
+  --transition-duration: 250ms;
 }
 :root {
   --transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
